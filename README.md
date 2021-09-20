@@ -1,4 +1,4 @@
-# -Titanic_Classification_Model
+# Titanic_Classification_Model
 Hello,<br> <br>
 In this project we worked on Titanic dataset to classify the passenger <br>
 if passenger is survived or not <br> 
